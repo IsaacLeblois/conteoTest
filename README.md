@@ -1,4 +1,3 @@
-```
 # User Management API
 
 This is a simple API for managing users built with Node.js, Express, and MongoDB. It allows you to create, update, delete, and fetch users, as well as search by city.
